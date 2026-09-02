@@ -1,0 +1,19 @@
+{
+  "name": "クリプトパズル - 暗号で英語マスター",
+  "short_name": "クリプトパズル",
+  "description": "暗号を解いて英語を脳に焼き付ける学習アプリ",
+  "lang": "ja",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a12",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
